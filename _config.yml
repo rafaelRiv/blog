@@ -5,7 +5,7 @@ github_pios: https://github.com/rafaelRiv/pi-os
 github_aos: https://github.com/rafaelRiv/a-os
 github_ros: https://github.com/rafaelRiv/r-os
 description:
-  "In this blog, we will write an operating system targeting the RISC-V architecture in Idris2 (mostly) and expolore ideas from ATS and Rust.
+  "In this blog, we will write an operating system targeting the RISC-V architecture in Idris2 (mostly) and explore ideas from ATS and Rust.
 
   <h3>
   PI-OS: Making a RISC-V Operating System exploring depeding types using Idris2 
