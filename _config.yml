@@ -8,7 +8,7 @@ description:
   "In this blog, we will write an operating system targeting the RISC-V architecture in Idris2 (mostly) and explore ideas from ATS and Rust.
 
   <h3>
-  PI-OS: Making a RISC-V Operating System exploring depeding types using Idris2 
+  PI-OS: Making a RISC-V Operating System exploring depending types using Idris2 
   </h3>"
 baseurl: "/piblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
