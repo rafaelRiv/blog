@@ -10,7 +10,7 @@ description:
   <h3>
   PI-OS: Making a RISC-V Operating System exploring depeding types using Idris2 
   </h3>"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/piblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
