@@ -1,3 +1,4 @@
 ---
-layout: home
+layout: custom_home
 ---
+

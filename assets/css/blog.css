@@ -1,0 +1,25 @@
+h1 {
+  margin-bottom: .5em;
+  font-size: 18pt;
+}
+
+.title {
+  color: #a00;
+  font-weight: 700;
+  margin-bottom: 2em;
+}
+
+.extra {
+  color: rgb(93, 18, 233);
+  text-decoration: none;
+  margin-left: 1em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul ul li:before {
+  content: "+";
+  color: #f33;
+}

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<header>
+  <div class='title'>
+    <img src={{ site.favicon }} height="48" width="48" /><h1>{{ site.title }}</h1>
+    <a class="extra" href="{{ site.github_pios }}">Github (pi-os)</a>
+    <a class="extra" href="{{ site.github_aos }}">Github (a-os)</a>
+    <a class="extra" href="{{ site.github_ros }}">Github (r-os)</a>
+  </div>
+
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}

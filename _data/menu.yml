@@ -2,12 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: me
-    entries:
-      - title: github
-        url: https://github.com/rafaelRiv
-
-  - title: posts
+  - title: <h4>The Road Ahead ...</4>
     post_list:
       limit: 5
       show_more: true
